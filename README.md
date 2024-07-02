@@ -1,4 +1,4 @@
-![eat sleep code repeat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZsZ2J5dDNwNHk4cGwxNm5yZTQ3aXBxbzVudGozcWc1M3NtYXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZsZ2J5dDNwNHk4cGwxNm5yZTQ3aXBxbzVudGozcWc1M3NtYXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="eat sleep code repeat" style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Rahman Abdul Quadir</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
