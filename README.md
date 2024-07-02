@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 <h1 align="center">Hi 👋, I'm Rahman Abdul Quadir</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
