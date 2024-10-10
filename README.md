@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/88615014/209163373-cf20e012-2460-4d88-b216-293855f1f459.png)
+
+
 <h1 align="center">Hi, I'm Rahman Abdul Quadir👋</h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;React+Developer;&center=true&width=500&height=50"></a>
@@ -43,8 +46,5 @@
   <br>
     </hr>
 </div>
-
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZsZ2J5dDNwNHk4cGwxNm5yZTQ3aXBxbzVudGozcWc1M3NtYXVoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="eat sleep code repeat" style="width:100%;"/>
 
 
