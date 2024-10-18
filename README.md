@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Rahman Abdul Quadir👋</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy+-+who+-+loves+-+coffee+.+tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50"></a>
 </p>
 
   <em>
