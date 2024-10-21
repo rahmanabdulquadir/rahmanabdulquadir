@@ -11,6 +11,13 @@
 </p>
 
 <br>
+ <em>
+<h4 align="center">
+  Alongside the MERN stack, I also integrate tools and technologies like Tailwind CSS, Next.js, and Redux to deliver seamless and efficient web experiences. I’m passionate about continuous learning and staying up-to-date with industry trends to deliver cutting-edge solutions. Currently I started learning RDBMS.
+</h4>
+
+
+<br>
 
 
 
@@ -35,16 +42,12 @@
   </a>
   <br>
 
+<br>
 
-  
-  ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' />
 ## :chart_with_upwards_trend: Current Stats
-
-<br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanabdulquadir&theme=dark&hide_border=true" />
 </p>
-  
   <br>
     </hr>
 </div>
