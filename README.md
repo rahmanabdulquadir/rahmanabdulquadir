@@ -3,17 +3,15 @@
 
 <h1 align="center">Hi, I'm Rahman Abdul Quadir👋</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50&color="blue"></a>
 </p>
 
   <em>
-    <h4 align="center">I develop MERN projects and work with modern web technologies'</h4>
-  <br>
-  <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
+    <h4 align="center">I develop MERN projects and work with modern web technologies. My focus is on creating responsive, user-friendly applications that solve real-world problems. From backend architecture to front-end design, I aim to build scalable and maintainable solutions.</h4>
 </p>
 
 
-✨ <b>My Tech stack</b>:
+✨ <b>My Current Tech Stack</b>:
 
    <br>
 <p align="center">
@@ -32,6 +30,12 @@
    <a href="https://web.facebook.com/profile.php?id=100004609158860">
     <img align="left" alt="Rahman Abdul Quadir| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
+  <br>
+  ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+![Rahman's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+
   
   <br>
     </hr>
