@@ -46,7 +46,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanabdulquadir&theme=dark&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanabdulquadir&theme=dark&hide_border=true" />
 </p>
   <br>
     </hr>
