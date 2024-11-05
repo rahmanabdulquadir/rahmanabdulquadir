@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/88615014/209163373-cf20e012-2460-4d88-b216-293855f1f459.png)
 
-
-# Hi there 👋 , I'm Rahman Abdul Quadir
+<h1 align="center"> Hi there 👋 , I'm Rahman Abdul Quadir</h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50&color="blue"></a>
 </p>
