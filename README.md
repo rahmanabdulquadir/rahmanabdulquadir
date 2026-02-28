@@ -2,17 +2,17 @@
 
 <h1 align="center"> Hi there 👋 , I'm Rahman Abdul Quadir</h1>
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50&color="blue"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Backend+Developer;Guy-who-loves-coffee.tsx;<+But+Loves+To+Code+More+/+>&center=true&width=500&height=50&color="blue"></a>
 </p>
 
   <em>
-    <h4 align="center">I develop MERN projects and work with modern web technologies. My focus is on creating responsive, user-friendly applications that solve real-world problems. From backend architecture to front-end design, I aim to build scalable and maintainable solutions.</h4>
+    <h4 align="center">I develop Full-Stack projects and work with modern web technologies. My focus is on creating responsive, user-friendly applications that solve real-world problems. From backend architecture to front-end design, I aim to build scalable and maintainable solutions.</h4>
 </p>
 
 <br>
  <em>
 <h4 align="center">
-  Alongside the MERN stack, I also integrate tools and technologies like Tailwind CSS, Next.js, and Redux to deliver seamless and efficient web experiences. I’m passionate about continuous learning and staying up-to-date with industry trends to deliver cutting-edge solutions. Currently I started learning RDBMS.
+  Alongside the FUll Stack, I also integrate tools and technologies like Tailwind CSS, Next.js, and Redux to deliver seamless and efficient web experiences. I’m passionate about continuous learning and staying up-to-date with industry trends to deliver cutting-edge solutions.
 </h4>
 
 
